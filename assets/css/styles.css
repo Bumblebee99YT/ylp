@@ -1,8 +1,15 @@
-.main{
+.navbar{
+    width: 100%;
+}
+
+.content{
     justify-content: center;
     text-align: center;
 }
 
 .subtext{
     color: #747474;
+}
+section{
+    margin-bottom: 10%;
 }
