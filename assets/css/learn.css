@@ -1,3 +1,24 @@
 .navbar{
     width: 100%;
 }
+
+.content{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+li{
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+section{
+    margin-top: 10%;
+}
